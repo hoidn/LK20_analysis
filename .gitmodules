@@ -1,0 +1,3 @@
+[submodule "UW-XAP"]
+	path = UW-XAP
+	url = https://github.com/hoidn/UW-XAP
